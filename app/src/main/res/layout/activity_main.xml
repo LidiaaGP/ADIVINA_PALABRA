@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    tools:context=".MainActivity"
+    >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:shrinkColumns="*"
+        android:layout_height="wrap_content">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/textView_0_0"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_0_1"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_0_2"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_0_3"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_0_4"
+                style="@style/estilo_tv_letra"
+                android:text="" 
+                />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/textView_1_0"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_1_1"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_1_2"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_1_3"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_1_4"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+        </TableRow>
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/textView_2_0"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_2_1"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_2_2"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_2_3"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_2_4"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+        </TableRow>
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/textView_3_0"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_3_1"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_3_2"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_3_3"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_3_4"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+        </TableRow>
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/textView_4_0"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_4_1"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_4_2"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_4_3"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_4_4"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+        </TableRow>
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/textView_5_0"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_5_1"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_5_2"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_5_3"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView_5_4"
+                style="@style/estilo_tv_letra"
+                android:text="" />
+        </TableRow>
+
+
+    </TableLayout>
+
+    <TableLayout
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:shrinkColumns="*"
+        android:layout_marginTop="15dp"
+        android:id="@+id/tableLayout_teclado"
+        >
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/btn_Q"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="Q"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_W"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="W"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_E"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="E"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_R"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="R"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_T"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="T"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_Y"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="Y"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_U"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="U"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_I"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="I"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_O"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="O"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_P"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="P"
+                tools:ignore="TouchTargetSizeCheck" />
+        </TableRow>
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/btn_A"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="A"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_S"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="S"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_D"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="D"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_F"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="F"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_G"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="G"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_H"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="H"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_J"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="J"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_K"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="K"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="L"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_Ñ"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="Ñ"
+                tools:ignore="TouchTargetSizeCheck" />
+        </TableRow>
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/btn_enviar"
+                style="@style/estilo_boton_teclado"
+                android:layout_span="2"
+                android:textSize="13sp"
+                android:text="ENVIAR"
+                android:onClick="click_enviar"/>
+
+            <Button
+                android:id="@+id/btn_Z"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="Z"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_X"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="X"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_C"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="C"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_V"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="V"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_B"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="B"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_N"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="N"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_M"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_letra"
+                android:text="M"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btn_borrar"
+                style="@style/estilo_boton_teclado"
+                android:onClick="click_borrar"
+                android:text="&lt;-"
+                tools:ignore="TouchTargetSizeCheck" />
+        </TableRow>
+
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/tv_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Palabras válidas: Palabras sin acentos en singular y verbos sin conjugar.\nColor verde: letra y posición acertada.\nColor amarillo: letra acertada.\nColor gris: letra no acertada." />
+
+    <TextView
+        android:id="@+id/tv_resultado"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:layout_margin="5dp"
+        android:textSize="20sp"
+        android:gravity="center_horizontal"
+        android:layout_height="wrap_content" />
+</LinearLayout>
+</ScrollView>

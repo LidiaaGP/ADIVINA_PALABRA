@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margen_letra">2dp</dimen>
+    <dimen name="relleno_letra">10dp</dimen>
+    <dimen name="alto_ancho_letra">50dp</dimen>
+</resources>
